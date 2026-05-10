@@ -1,1 +1,27 @@
+import random
+a = "HI WELCOME TO THE ROCK PAPER SCISSOR GAME!!"
+print(a.center(150))
+name = input("please enter your name:  ")
+print("hi", name ,"welcome to the  R P S game!!")
+print("do you wanna play game with me?")
+reply = input("say yes or no :  ")
+if reply=="yes":
+    print("oohk nice let's start the game!!!")
+else:
+    print("No problem better come again :)  ")
 
+answer = input("enter any one from rock/paper/scissor: ")
+items = ["rock" , "paper" , "scissor"]
+computer = random.choice(items)
+print(f"computer's choice: {computer}")
+if computer == "rock" and answer == "paper":
+    print("congratulaion you won the game!!")
+elif  computer == "paper" and answer == "scissor":
+    print("yeah you won ")
+    
+elif computer == "scissor" and answer == "rock":
+    print("yeah you won !!")
+    print("sorry let's try again")
+
+else:
+    print("sorry let's try again")
