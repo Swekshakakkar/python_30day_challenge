@@ -1,5 +1,7 @@
 # 30Days_of_Python
 
+##DAY1
+
 This is my Day 1 in this 30 Days Python Project Series.  
 Today, I created a simple Rock Paper Scissors game using basic Python concepts.
 
