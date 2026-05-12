@@ -1,9 +1,11 @@
-# python_30day_challenge
+# 30Days_of_Python
 
-# day1
-this is my day one in this 30 days python project series.
-today i made a normal rock paer scissor game using basic coding in python.
-used random , center.(100) , if elif else ( conditional statement).
-this is not good because it is not runing again and again because i did't use loop in this but i will upadate it tommorrow more perfectly.
-happy to complete my day one!!!!
+This is my Day 1 in this 30 Days Python Project Series.  
+Today, I created a simple Rock Paper Scissors game using basic Python concepts.
 
+- **Concepts Used:** `random`, `center(100)`, and conditional statements using `if`, `elif`, and `else`.
+- **Progress:** Successfully built my first mini Python game.
+- **Learning:** The game is not running continuously yet because I haven't used loops in it. I realized how important loops are for making programs more interactive.
+- **Goal:** Tomorrow, I will improve this project by adding loops and making the game work more smoothly.
+
+Happy to complete my Day 1!! 🚀🐍
